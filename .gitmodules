@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tidyfit"]
+	path = tidyfit
+	url = https://github.com/jpfitzinger/tidyfit
+	shallow = true
+	registered = true
