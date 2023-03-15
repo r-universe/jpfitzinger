@@ -1,5 +1,9 @@
 [
   {
+    "package": "hfr",
+    "oncran": true
+  },
+  {
     "package": "tidyfit",
     "oncran": true
   }
