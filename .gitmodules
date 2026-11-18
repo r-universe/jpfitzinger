@@ -5,6 +5,3 @@
 [submodule "hfr"]
 	path = hfr
 	url = https://github.com/jpfitzinger/hfr
-[submodule "tidyfit"]
-	path = tidyfit
-	url = https://github.com/jpfitzinger/tidyfit
